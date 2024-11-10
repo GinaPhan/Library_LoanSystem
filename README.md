@@ -1,6 +1,6 @@
 # 📚 Library Loan System Automation
 
-This project automates the City-145 Library's loan system using MySQL, implementing borrowing rules, fine calculations, and membership management.
+This project automates Library's loan system using MySQL, implementing borrowing rules, fine calculations, and membership management.
 
 ---
 
